@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning web development
+<!--- 🌱 I’m currently learning web development-->
 - 😄 Pronouns: she/her
 - 🏫 University of Manitoba
 <!--- 👯 I’m looking to collaborate on ...
