@@ -1,26 +1,16 @@
 ## About me
 
-
-<!---**f-osss/f-osss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
- 🌱 I’m currently learning web development-->
 - 😄 Pronouns: she/her
 - 🏫 University of Manitoba
-<!--- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning web development
 
-📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Chuks-x&show_icons=true&theme=gotham" alt="f-osss" />
+ 📈 My GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=f-osss&show_icons=true&theme=gotham&&line_height=40" alt="f-osss" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f-osss&theme=gotham&show_icons=true" alt="Top Languages" />
+</p>
 
 <!--<p align="center"> 
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/f-osss/count.svg" />
 </p>
-
-
