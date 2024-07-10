@@ -7,7 +7,7 @@
 📈 My GitHub Stats
 <p align="center">
   <img width="49.5%"  src="https://github-readme-streak-stats.herokuapp.com/?user=f-osss&theme=gotham&hide_border=false&&line_height=40" alt="GitHub Streak Stats" />
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=f-oss&show_icons=true&theme=gotham" alt="GitHub Stats" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=f-osss&show_icons=true&theme=gotham" alt="GitHub Stats" />
 </p>
 <p align="center">
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f-osss&theme=gotham&show_icons=true" alt="Top Languages" />
