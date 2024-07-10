@@ -8,10 +8,11 @@
 <p align="center">
   <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=f-osss&theme=gotham&hide_border=false&&line_height=40" alt="GitHub Streak Stats" />
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=f-osss&show_icons=true&theme=gotham" alt="GitHub Stats" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f-osss&theme=gotham&show_icons=true" alt="Top Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=f-osss&theme=gotham&&line_height=40" alt="Top Langs by repo" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=f-osss&theme=gotham&&line_height=40" alt="Top Langs by commit" />
+</p>
+<p align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f-osss&theme=gotham&show_icons=true" alt="Top Languages" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=f-osss&theme=gotham&&line_height=40" alt="Top Langs by repo" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=f-osss&theme=gotham&&line_height=40" alt="Top Langs by commit" />
 </p>
 
 <summary>📈 Latest Activity Graph</summary>
