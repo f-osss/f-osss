@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f-osss&theme=gotham&show_icons=true" alt="Top Languages" />
+  <img height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f-osss&theme=dracula&show_icons=true" alt="Top Languages" />
 <!--   <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=f-osss&theme=gotham&&line_height=40" alt="Top Langs by repo" /> -->
   <img height="210" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=f-osss&theme=gotham&&line_height=40" alt="Top Langs by commit" />
 </p>
