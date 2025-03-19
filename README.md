@@ -2,7 +2,6 @@
 
 - 😄 Pronouns: she/her
 - 🏫 University of Manitoba
-- 🌱 I’m currently learning web development
 
 📈 My GitHub Stats
 <p align="center">
