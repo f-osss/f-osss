@@ -6,7 +6,7 @@
 📈 My GitHub Stats
 <p align="center">
   <img width="49.5%"  src="https://github-readme-streak-stats.herokuapp.com/?user=f-osss&theme=gotham&hide_border=false&&line_height=40" alt="GitHub Streak Stats" />
-<!--   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=f-osss&theme=gotham" alt="GitHub Stats" /> -->
+ <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=f-osss&theme=gotham" alt="GitHub Stats" /> -->
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 <!--<summary>📈 Latest Activity Graph</summary>
 <!-- <br/>
 <p align="center"> -->
-   <img width="70%" alt="f-osss's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=f-osss&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" />
+<!--  <img width="70%" alt="f-osss's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=f-osss&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" />
 </p> -->
 <!-- <br/>
  -->
